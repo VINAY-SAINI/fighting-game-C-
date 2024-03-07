@@ -1,0 +1,14 @@
+C:\Users\nidhi\Desktop\task 1 game PvP\bin\Debug\net8.0\task 1 game PvP.exe
+C:\Users\nidhi\Desktop\task 1 game PvP\bin\Debug\net8.0\task 1 game PvP.deps.json
+C:\Users\nidhi\Desktop\task 1 game PvP\bin\Debug\net8.0\task 1 game PvP.runtimeconfig.json
+C:\Users\nidhi\Desktop\task 1 game PvP\bin\Debug\net8.0\task 1 game PvP.dll
+C:\Users\nidhi\Desktop\task 1 game PvP\bin\Debug\net8.0\task 1 game PvP.pdb
+C:\Users\nidhi\Desktop\task 1 game PvP\obj\Debug\net8.0\task 1 game PvP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nidhi\Desktop\task 1 game PvP\obj\Debug\net8.0\task 1 game PvP.AssemblyInfoInputs.cache
+C:\Users\nidhi\Desktop\task 1 game PvP\obj\Debug\net8.0\task 1 game PvP.AssemblyInfo.cs
+C:\Users\nidhi\Desktop\task 1 game PvP\obj\Debug\net8.0\task 1 game PvP.csproj.CoreCompileInputs.cache
+C:\Users\nidhi\Desktop\task 1 game PvP\obj\Debug\net8.0\task 1 game PvP.dll
+C:\Users\nidhi\Desktop\task 1 game PvP\obj\Debug\net8.0\refint\task 1 game PvP.dll
+C:\Users\nidhi\Desktop\task 1 game PvP\obj\Debug\net8.0\task 1 game PvP.pdb
+C:\Users\nidhi\Desktop\task 1 game PvP\obj\Debug\net8.0\task 1 game PvP.genruntimeconfig.cache
+C:\Users\nidhi\Desktop\task 1 game PvP\obj\Debug\net8.0\ref\task 1 game PvP.dll
